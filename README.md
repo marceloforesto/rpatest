@@ -43,5 +43,3 @@ The following error cases have been handled:
   - Directory without incoming CSV files
   - Invalid directory to save CSV file
   - Invalid CSV file name
-  - Diretório para salvor o arquivo CSV inválido
-
