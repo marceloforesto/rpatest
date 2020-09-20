@@ -27,8 +27,12 @@ $ sudo apt install python-tk
 $ python3 solution.py
 ```
 ### Flowchart
+![GitHub Logo](/arc.png)
+Format: ![Alt Text](url)
 
 ### Architecture
+![GitHub Logo](/flow.png)
+Format: ![Alt Text](url)
 
 ### Testing the application
 
